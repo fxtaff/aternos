@@ -1,6 +1,6 @@
 {
-	"ip":"KT_SMP.aternos.me",
-	"port": "25565",
+	"ip":"taff_smp.aternos.me",
+	"port": "12247",
 	"name": "TaFFBot",
 	"auto-night-skip":"true"
 }
